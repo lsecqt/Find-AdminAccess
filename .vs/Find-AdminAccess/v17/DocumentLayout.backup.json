@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsec\\source\\repos\\Find-AdminAccess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8903EA7-A545-43F8-8C53-37B98446DDEB}|Find-AdminAccess\\Find-AdminAccess.csproj|c:\\users\\lsec\\source\\repos\\find-adminaccess\\find-adminaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8903EA7-A545-43F8-8C53-37B98446DDEB}|Find-AdminAccess\\Find-AdminAccess.csproj|solutionrelative:find-adminaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsec\\source\\repos\\Find-AdminAccess\\Find-AdminAccess\\Program.cs",
+              "RelativeDocumentMoniker": "Find-AdminAccess\\Program.cs",
+              "ToolTip": "C:\\Users\\lsec\\source\\repos\\Find-AdminAccess\\Find-AdminAccess\\Program.cs",
+              "RelativeToolTip": "Find-AdminAccess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:31:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

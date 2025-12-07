@@ -1,0 +1,2 @@
+C:\Users\lsec\source\repos\Find-AdminAccess\Find-AdminAccess\obj\Debug\Find-AdminAccess.csproj.AssemblyReference.cache
+C:\Users\lsec\source\repos\Find-AdminAccess\Find-AdminAccess\obj\Debug\Find-AdminAccess.csproj.CoreCompileInputs.cache
